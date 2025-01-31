@@ -59,6 +59,6 @@ https://github.com/Flibon/tech-campus-recruitment-2025.git
 
 ---
 
-This **ensures an efficient and scalable solution** for large log file extraction. 🚀
+
 
 
